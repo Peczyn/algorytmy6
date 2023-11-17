@@ -85,7 +85,7 @@ void timecheck(BST* root)
     int sekundy = czas();
     cout << "\nCzas: "<< sekundy << endl;
 }
-
+//change xD
 using namespace std;
 int main() {
 
