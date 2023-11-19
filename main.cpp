@@ -1,6 +1,6 @@
 #include <iostream>
 #include <ctime>
-#include "/Users/marcin/CLionProjects/algorytmy5/main.cpp"
+#include "lab5.cpp"
 using namespace std;
 
 
