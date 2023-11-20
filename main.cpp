@@ -8,7 +8,7 @@ class zegar{
 public:
     int val; //licznik zmieniajacy sie co sekunde
     int lasttime; //ostatni odczytany czas
-
+    //etc
     zegar();
 
     void czas(); //metoda ktora zmienia licznik
